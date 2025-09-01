@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
-# This example shows using four MLX90640 sensors attached to TCA9548A channels 0, 1, 2 and 3.
+# This example shows using six MLX90640 sensors attached to TCA9548A channels 0, 1, 2, 3, 4 and 5.
 # Use with other I2C sensors would be similar.
 import time,board,busio
 import numpy as np
