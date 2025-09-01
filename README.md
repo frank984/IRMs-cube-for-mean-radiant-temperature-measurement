@@ -31,8 +31,8 @@ The methodology and preliminary results are described in:
 Further research and testing are needed to validate the system under different configurations.
 To support this, we are releasing:
 
-* **3D-printed support design**
-* **Code for data acquisition and logging**
-* **Fritzing schematic diagram** ([Fritzing](https://fritzing.org/))
+* **[3D-printed support]() design**
+* **[Code]() for data acquisition and logging**
+* **[Fritzing](https://fritzing.org/) [schematic diagram](https://github.com/frank984/IRMs-cube-for-mean-radiant-temperature-measurement/blob/main/1_rasp_1_PCA9548A_6_MLX90640_cut.png)**
 
 Our goal is to make the system **user-friendly, reproducible, and accessible** for researchers and practitioners.
