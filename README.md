@@ -13,7 +13,7 @@ These standards typically rely on a reference system consisting of:
 
 ## Our Approach
 
-To explore this question, we designed a prototype based on **six Melexis MLX90640-ESF-BAA infrared sensor modules (IRMs)**, arranged in a cube configuration (see image above).
+To explore this question, we designed a prototype based on **six [Adafruit Melexis MLX90640-ESF-BAA infrared sensor modules](https://www.adafruit.com/product/4469) (IRMs)**, arranged in a cube configuration (see image above).
 
 ## First Results
 
