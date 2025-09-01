@@ -1,4 +1,4 @@
-# An open-source prototype for measuring Mean Radiant Temperature using low-cost infrared sensor arrays.
+# An open-source prototype for measuring Mean Radiant Temperature using low-cost infrared sensor arrays
 
 ![real_vs_3D_render](https://github.com/user-attachments/assets/ebb85bfd-48d3-4495-81c8-4ae733154beb)
 
