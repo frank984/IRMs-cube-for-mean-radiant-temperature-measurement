@@ -34,6 +34,6 @@ To support this, we are releasing:
 
 * **[3D-printed support](https://github.com/frank984/IRMs-cube-for-mean-radiant-temperature-measurement/blob/main/mlx90640_x6_support_3Dprint.stl) design**
 * **[Code](https://github.com/frank984/IRMs-cube-for-mean-radiant-temperature-measurement/blob/main/MRT.py) for data acquisition and logging**
-* **[Fritzing](https://fritzing.org/) [schematic diagram](https://github.com/frank984/IRMs-cube-for-mean-radiant-temperature-measurement/blob/main/1_rasp_1_PCA9548A_6_MLX90640_cut.png)**
+* **[Fritzing](https://fritzing.org/) [schematic diagram](https://github.com/frank984/IRMs-cube-for-mean-radiant-temperature-measurement/blob/main/1_rasp_1_PCA9548A_6_MLX90640.png)**
 
 Our goal is to make the system **user-friendly, reproducible, and accessible** for researchers and practitioners.
