@@ -27,7 +27,9 @@ The methodology and preliminary results are described in:
 > Lausanne, Switzerland, 3–5 September 2025.
 > [CISBAT Conference Website](https://cisbat.epfl.ch/)
 >
-> Author Contributions
+
+
+Author Contributions
 - Francesco Salamone: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing, Design and development of the IRMs cube
 - Lorenzo Belussi: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing
 - Ludovico Danza: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing, provided the funds to purchase infrared modules
