@@ -26,6 +26,13 @@ The methodology and preliminary results are described in:
 > Submitted to **CISBAT 2025 – The Built Environment in Transition**,
 > Lausanne, Switzerland, 3–5 September 2025.
 > [CISBAT Conference Website](https://cisbat.epfl.ch/)
+>
+> Author Contributions
+- Francesco Salamone: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing, Design and development of the IRMs cube
+- Lorenzo Belussi: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing
+- Ludovico Danza: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing, provided the funds to purchase infrared modules
+- Sergio sibilio: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing
+- Massimiliano Masullo: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing
 
 ## Why Open Source?
 
