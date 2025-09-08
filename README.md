@@ -46,3 +46,15 @@ To support this, we are releasing:
 * **[Fritzing](https://fritzing.org/) [schematic diagram](https://github.com/frank984/IRMs-cube-for-mean-radiant-temperature-measurement/blob/main/1_rasp_1_PCA9548A_6_MLX90640.png)**
 
 Our goal is to make the system **user-friendly, reproducible, and accessible** for researchers and practitioners.
+
+
+## CC Attribution-NonCommercial 4.0 International
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc]
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
