@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
+# partially defined starting from SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
 # This example shows using six MLX90640 sensors attached to TCA9548A channels 0, 1, 2, 3, 4 and 5.
@@ -25,16 +25,8 @@ corr_fact_frame3 = 0.0 #in °C
 corr_fact_frame4 = 0.0 #in °C
 corr_fact_frame5 = 0.0 #in °C
 
-'''
-# For each sensor, create it using the TCA9548A channel instead of the I2C object
-tsl1 = adafruit_tsl2591.TSL2591(tca[0])
-tsl2 = adafruit_tsl2591.TSL2591(tca[1])
 
-# After initial setup, can just use sensors as normal.
-while True:
-    print(tsl1.lux, tsl2.lux)
-    time.sleep(0.1)
-'''
+# For each sensor, create it using the TCA9548A channel instead of the I2C object
 
 #mlx = adafruit_mlx90640.MLX90640(i2c) # begin MLX90640 with I2C comm
 
@@ -116,4 +108,3 @@ else:
     #file = open("/home/pi/Desktop/env_data_monit_with_wearable/MRT/log.txt","a")
     file.write("NAN  " +"\n")
 file.close()
-
