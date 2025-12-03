@@ -22,10 +22,11 @@ Initial tests at **ZEBlab, ITC-CNR** allowed us to compare measurements from the
 The methodology and preliminary results are described in:
 
 > *Low-cost infrared sensor array and open-source hardware for monitoring mean radiant temperature*
-> F. Salamone, L. Belussi, L. Danza, S. Sibilio, M. Masullo
+> F. Salamone, L. Belussi, L. Danza, S. Sibilio, M. Masullo. <br /> 
+> The full article is available [here](https://iopscience.iop.org/article/10.1088/1742-6596/3140/8/072023). <br /> 
 > Submitted to **CISBAT 2025 – The Built Environment in Transition**,
 > Lausanne, Switzerland, 3–5 September 2025.
-> [CISBAT Conference Website](https://cisbat.epfl.ch/)
+> [CISBAT Conference Website](https://cisbat.epfl.ch/).
 >
 
 
