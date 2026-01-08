@@ -26,8 +26,8 @@ The methodology and preliminary results are described in:
 > The full article is available [here](https://iopscience.iop.org/article/10.1088/1742-6596/3140/8/072023). <br /> 
 > Submitted to **CISBAT 2025 – The Built Environment in Transition**,
 > Lausanne, Switzerland, 3–5 September 2025.
-> [CISBAT Conference Website](https://cisbat.epfl.ch/).
->
+> [CISBAT Conference Website](https://cisbat.epfl.ch/).<br />
+>If you use this page to define your monitoring system, please cite the related article (DOI: http://doi.org/10.1088/1742-6596/3140/8/072023) along with this repository (DOI: https://doi.org/10.5281/zenodo.17130661). <br />
 
 
 Author Contributions
