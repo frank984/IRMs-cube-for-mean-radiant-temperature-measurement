@@ -27,7 +27,9 @@ The methodology and preliminary results are described in:
 > Submitted to **CISBAT 2025 – The Built Environment in Transition**,
 > Lausanne, Switzerland, 3–5 September 2025.
 > [CISBAT Conference Website](https://cisbat.epfl.ch/).<br />
->If you use this page to define your monitoring system, please cite the related article (DOI: http://doi.org/10.1088/1742-6596/3140/8/072023) along with this repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17130661.svg)](https://doi.org/10.5281/zenodo.17130661)
+>If you use this page to define your monitoring system, please cite the related DOIs:<br />
+> [![DOI](https://img.shields.io/badge/DOI-10.1088%2F1742%2F6596%2F3140%2F7%2F072023-forestgreen)](http://doi.org/10.1088/1742-6596/3140/8/072023) <br />
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17130661.svg)](https://doi.org/10.5281/zenodo.17130661)
 > <br />
 
 
