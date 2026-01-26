@@ -34,11 +34,11 @@ The methodology and preliminary results are described in:
 
 
 Author Contributions
-- Francesco Salamone: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing, Design and development of the IRMs cube
-- Lorenzo Belussi: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing
-- Ludovico Danza: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing, provided the funds to purchase infrared modules
-- Sergio sibilio: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing
-- Massimiliano Masullo: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing
+- **Francesco Salamone**: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing, Design and development of the IRMs cube
+- **Lorenzo Belussi**: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing
+- **Ludovico Danza**: Methodology, Data curation, Validation, Writing – original draft, Writing – review & editing, provided the funds to purchase infrared modules
+- **Sergio sibilio**: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing
+- **Massimiliano Masullo**: Conceptualization, Methodology, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing
 
 ## Why Open Source?
 
